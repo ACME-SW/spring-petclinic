@@ -30,6 +30,11 @@ public class PetClinicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PetClinicApplication.class, args);
+		String AWS_Key = "AKIAIOSFODNN7EXAMPLE";
+		String AWS_Key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+		String Endpoint = "https://s3.mycompany.com";
+		String Region = "AKIAIOSFODNN7EXAMPLE";
+	
 	}
 
 }
