@@ -14,6 +14,9 @@
  * limitations under the License.
  */
 
+//# The ip specified when starting the web server
+web_server_host = 0.0.0.0
+
 package org.springframework.samples.petclinic.system;
 
 import javax.cache.configuration.MutableConfiguration;
